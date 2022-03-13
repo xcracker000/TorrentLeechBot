@@ -1,6 +1,6 @@
 # Telegram Leecher Bot
 ## Update :  Fixed Heroku Deployment Problem 🙂 (OR [solution here](#item-could-not-be-created-error-on-heroku-and-how-to-overcome-it))
-### Note : If want some new features.. [DM me here](https://t.telegram.ind.in/gopalsaraf) OR [Join here and ask](https://t.telegram.ind.in/torrentleechgs).
+### Note : If want some new features.. [DM me here](https://t.me/torrentleech49_bot) OR [Join here and ask](https://t.me/torrentleech49_bot).
 <br>
 
 
