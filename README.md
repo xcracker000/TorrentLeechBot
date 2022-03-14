@@ -1,13 +1,13 @@
 # Telegram Leecher Bot
-## Update :  Fixed Heroku Deployment Problem 🙂 (OR [solution here](#item-could-not-be-created-error-on-heroku-and-how-to-overcome-it))
-### Note : If want some new features.. [DM me here](https://t.telegram.ind.in/gopalsaraf) OR [Join here and ask](https://t.telegram.ind.in/torrentleechgs).
+## Update :  Fixed Heroku Deployment Problem (OR [solution here](#item-could-not-be-created-error-on-heroku-and-how-to-overcome-it))
+### Note : If want some new features.. [DM me here](https://t.me/naveenleech49_bot) OR [Join here and ask](https://t.me/naveenleech49_bot).
 <br>
 
 
 <img width=400px height=400px src="https://images.unsplash.com/photo-1562907550-096d3bf9b25c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=735&q=80" alt="Bot logo"></a>
 
-<h2>Join <a href=https://t.telegram.ind.in/torrentleechgs>TorrentLeech Group</a> for demo!</h2>
-<p align="left"><a href="https://t.telegram.ind.in/torrentleechgs"><img src="https://img.shields.io/badge/Telegram-Join%20TorrentLeech%20Group-blue.svg?logo=telegram"></a></p>
+<h2>Join <a href=https://t.me/naveenleech49_bot>Torrent Bot Group</a> for demo!</h2>
+<p align="left"><a href="https://t.me/naveenleech49_bot"><img src="https://img.shields.io/badge/Telegram-Join%20TorrentLeech%20Group-blue.svg?logo=telegram"></a></p>
 
 # Benefits :-
     ✓ Google Drive link cloning using gclone.(wip)
@@ -23,8 +23,8 @@
     ✓ You can also deploy this on your VPS
     ✓ Option to select either video will be uploaded as document or streamable
     ✓ Added /renewme command to clear the downloads which are not deleted automatically.
-    ✓ Added support for youtube playlist 😐
-    ✓ Renaming of Telegram files support added. 😐
+    ✓ Added support for youtube playlist
+    ✓ Renaming of Telegram files support added.
     ✓ Changing rclone destination config on fly (By using `/rlcone` in private mode)
     
 
@@ -111,18 +111,8 @@
 
 ## Deploy on Heroku :-
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/GopalSaraf/TorrentLeechBot/tree/master)"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/NaveenTn49/TorrentLeechBot)"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
 <br>
 
 ## "Item could not be created" error on Heroku and how to overcome it
-
-### Solution :
-    Star and fork this repo
-    Now go to your forked repo
-    Click on README.md edit button
-    Go to Deploy on Heroku section
-    Replace GopalSaraf with your github username in link
-    Commit the changes
-    Deploy the bot
-
 
