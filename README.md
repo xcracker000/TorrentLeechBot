@@ -111,6 +111,6 @@
 
 ## Deploy on Heroku :-
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/NaveenTn49/TorrentLeechBot)"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/xcracker000/TorrentLeechBot)"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
 
 
